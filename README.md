@@ -20,8 +20,8 @@ https://github.com/mingderwang/RaidenZero
 
 
 ## Team Members
-    [@lychees](https://gitcoin.co/profile/lychees) (Xiao Dao) **•** 
-    [@mingderwang](https://gitcoin.co/mingderwang) (Ming) **•** 
+[@lychees](https://gitcoin.co/profile/lychees) (Xiao Dao) **•** 
+[@mingderwang](https://gitcoin.co/mingderwang) (Ming) **•** 
 
 
 ## Introduction
